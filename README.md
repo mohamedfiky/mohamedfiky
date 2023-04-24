@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed El-Fiky .
-- 👀 I’m interested in Front-End Web Development & WordPress .
+- 👀 I’m interested in Front-end Web Development & WordPress .
 - 🌱 I’m currently learning React js & php .
 - 📫 You can reach me by : 
  
