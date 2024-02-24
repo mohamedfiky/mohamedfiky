@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React js & php .
 - 📫 You can reach me by : 
  
-   1- Email : fiky.link@gmail.com
+   1- Email : fiky4work@gmail.com
   
    2- Linkedin : [.com/in/mohamedfiky](https://www.linkedin.com/in/mohamedfiky/)
   
