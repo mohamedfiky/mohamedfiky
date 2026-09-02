@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning React js & php .
 - 📫 You can reach me by : 
  
-   1- Website : https://fiky.onrender.com/ 
+   1- Website : https://fiky.dev 
 
-   2- Email : fiky4work@gmail.com
+   2- Email : fiky.dev@gmail.com
   
    3- Linkedin : [.com/in/mohamedfiky](https://www.linkedin.com/in/mohamedfiky/)
 
